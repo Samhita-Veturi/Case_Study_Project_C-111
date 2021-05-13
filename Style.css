@@ -25,7 +25,7 @@ li{
 }
 .Text_Images_Results img{
     border-radius: 20px;
-    height: 300px;
+    height: 350px;
     width: 400px;
     margin: 15px;
 }
@@ -40,6 +40,7 @@ li{
     color: white;
     font-size: 25px;
     font-family: 'Comfortaa', cursive;
+    margin-bottom: 70px;
 }
 #Copy_F{
     background-color: lightgray;
